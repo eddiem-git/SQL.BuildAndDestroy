@@ -1,1 +1,1 @@
-create database myNewDB;
+create dataBase myNewDB;

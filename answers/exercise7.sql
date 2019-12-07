@@ -1,1 +1,1 @@
-ALTER TABLE Users DROP COLUMN Birthday;
+ALTER TABLE users DROP COLUMN birthDay;

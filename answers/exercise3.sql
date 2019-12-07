@@ -1,5 +1,5 @@
-CREATE DATABASE myNewDB;
-CREATE TABLE Users (
+CREATE dataBase myNewDB;
+CREATE TABLE users (
 	UserID int,
     LastName CHAR(255),
     FirstName CHAR(255),

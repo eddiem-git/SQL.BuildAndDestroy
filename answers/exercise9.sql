@@ -1,1 +1,1 @@
-SELECT * FROM Users WHERE NOT city='Philadelphia';
+SELECT * FROM users WHERE NOT city='Philadelphia';

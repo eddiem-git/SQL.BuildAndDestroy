@@ -1,1 +1,1 @@
-SELECT * FROM Users WHERE city = 'Philadelphia' OR city = 'Trenton';
+SELECT * FROM users WHERE city = 'Philadelphia' OR city = 'Trenton';

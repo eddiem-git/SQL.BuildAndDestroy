@@ -1,4 +1,4 @@
 
 UPDATE students
 SET city = 'Edinburgh'
-WHERE Country = 'Scotland';
+WHERE country = 'Scotland';
